@@ -1,6 +1,6 @@
 # Toko App - JavaFX
 
-Aplikasi desktop pencatatan dan pengelolaan data produk sederhana yang dibangun menggunakan Java, Maven, dan JavaFX[cite: 1].
+Aplikasi desktop pencatatan dan pengelolaan data produk sederhana yang dibangun menggunakan Java, Maven, dan JavaFX.
 
 ## Screenshot Aplikasi
 
@@ -12,7 +12,7 @@ Aplikasi desktop pencatatan dan pengelolaan data produk sederhana yang dibangun 
 
 ## Persyaratan Sistem
 * Java Development Kit (JDK) 21
-* Apache Maven[cite: 1]
+* Apache Maven
 * Apache NetBeans (untuk mode pengembangan)
 
 ## Cara Menjalankan Aplikasi
